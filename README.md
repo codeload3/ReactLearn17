@@ -1,2 +1,2 @@
 # ReactLearn17
-Created with CodeSandbox
+Dynamically rendered emojipedia
